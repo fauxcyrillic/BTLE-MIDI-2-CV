@@ -18,3 +18,6 @@ Other required bits in addition to wires, resistors, caps:
 I did this somewhat 'on the fly' and my notes are chaotic so no schematic, sorry!
 But essentially the TinyS3 sends CV values to the DAC over I2C,
 and gate triggers go out to the level shifter to boost them from 3.3v to 5v.
+
+It's unlikely that this image of my working out will help, but just in case...
+![notes](IMG_1891.jpg)
