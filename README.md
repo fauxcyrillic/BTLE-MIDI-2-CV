@@ -23,7 +23,7 @@ and gate triggers go out to the level shifter to boost them from 3.3v to 5v.
 This module has no physical input connections.
 The DIY module only provides 4 discrete outputs (in pairs). I wanted to output four complete channels of CV *and* gates, so I made use of the unused input connectors.
 
-**On the left of the module** (which would normally be inputs, the top 4 connections provide gate outs.
+**On the left of the module** (which would normally be inputs), the top 4 connections provide gate outs.
 
 **On the right hand side,** there are 4 channels of CV out, in pairs. (See diagram in Images folder)
 
